@@ -289,7 +289,7 @@
 }
 
 .donate_section {
-    background-image: url("img/donate-bg.jpg");
+    background-image: url("img/bannerAzul.avif");
     background-size: cover;
 }
 
@@ -1081,7 +1081,7 @@
 }
 
 .block-wrapper {
-    background-image: url(img/count.jpg);
+    background-image: url(img/bannerRojo.avif);
     background-size: 100% 100%;
 }
 
